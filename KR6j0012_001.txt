@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:42.359368
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:00
 #+TITLE: 胎藏梵字真言
 #+PROPERTY: CBETA_ID T18n0854
 #+PROPERTY: ID KR6j0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 854
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0012_T_001-0164c> 
 #+PROPERTY: JUAN 1
 ¶
-No.854¶
-
- 胎藏梵字真言上卷¶
+No. 854¶
+胎藏梵字真言上卷¶
 ¶
 
 灑淨真言。¶
@@ -229,7 +228,6 @@ No.854¶
 
 一切諸佛頂真言曰。¶
 
-¶
 ¶
 
 無能勝真言曰。¶
