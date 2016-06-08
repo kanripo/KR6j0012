@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:42.389412
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:00
 #+TITLE: 胎藏梵字真言
 #+PROPERTY: CBETA_ID T18n0854
 #+PROPERTY: ID KR6j0012
